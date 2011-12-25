@@ -1,0 +1,140 @@
+2011-10-31 20:32:38.6396|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-10-31 20:32:39.2109|INFO|WebCamService.WebCam|Setting resolution to 800 x 600.
+2011-10-31 20:32:39.2197|ERROR|WebCamService.WebCam|Current image was null.
+2011-10-31 20:32:59.2148|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:32:59.2822|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:32:59.3115|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:33:19.2363|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:33:19.2363|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:33:19.2363|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:33:39.2353|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:33:39.2353|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:33:39.2353|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:33:59.2353|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:33:59.2353|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:33:59.2353|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:34:19.2441|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:34:19.2529|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:34:19.2529|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:34:39.2587|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:34:39.2656|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:34:39.2656|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:34:59.2587|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:34:59.2587|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:34:59.2656|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:35:19.2587|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:35:19.2656|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:35:19.2656|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:35:39.2861|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:35:39.3017|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:35:39.3017|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:35:59.2744|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:35:59.2812|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:35:59.2812|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:36:02.5322|INFO|WebCamService.WebCamService|Stopping service.
+2011-10-31 20:38:57.9433|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-10-31 20:38:58.3652|INFO|WebCamService.WebCam|Setting resolution to 800 x 600.
+2011-10-31 20:38:58.3808|ERROR|WebCamService.WebCam|Current image was null.
+2011-10-31 20:39:18.3769|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:39:18.4042|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:39:18.4082|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:39:18.4355|ERROR|WebCamService.WebCam|A generic error occurred in GDI+.   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at WebCamService.WebCam.Save(Image img, Int64 jpegQuality) in C:\dev\WebCamService\WebCamService\WebCam.cs:line 69
+
+2011-10-31 20:39:38.3818|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:39:38.3818|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:39:38.3906|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:39:38.3906|ERROR|WebCamService.WebCam|A generic error occurred in GDI+.   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at WebCamService.WebCam.Save(Image img, Int64 jpegQuality) in C:\dev\WebCamService\WebCamService\WebCam.cs:line 69
+
+2011-10-31 20:39:58.4052|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:39:58.4248|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:39:58.4248|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:39:58.4248|ERROR|WebCamService.WebCam|A generic error occurred in GDI+.   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at WebCamService.WebCam.Save(Image img, Int64 jpegQuality) in C:\dev\WebCamService\WebCamService\WebCam.cs:line 69
+
+2011-10-31 20:40:18.3984|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:40:18.4091|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:40:18.4091|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:40:18.4091|ERROR|WebCamService.WebCam|A generic error occurred in GDI+.   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at WebCamService.WebCam.Save(Image img, Int64 jpegQuality) in C:\dev\WebCamService\WebCamService\WebCam.cs:line 69
+
+2011-10-31 20:40:38.3984|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:40:38.4072|INFO|WebCamService.WebCam|Saving image to C:\img_100.jpg.
+2011-10-31 20:40:38.4072|ERROR|WebCamService.WebCam|Error saving image to path C:\img_100.jpg
+2011-10-31 20:40:38.4072|ERROR|WebCamService.WebCam|A generic error occurred in GDI+.   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at WebCamService.WebCam.Save(Image img, Int64 jpegQuality) in C:\dev\WebCamService\WebCamService\WebCam.cs:line 69
+
+2011-10-31 20:40:50.9189|INFO|WebCamService.WebCamService|Stopping service.
+2011-10-31 20:41:10.4560|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-10-31 20:41:10.8417|INFO|WebCamService.WebCam|Setting resolution to 800 x 600.
+2011-10-31 20:41:10.8437|ERROR|WebCamService.WebCam|Current image was null.
+2011-10-31 20:41:30.8515|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:41:30.8828|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:41:50.8515|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:41:50.8603|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:42:10.8554|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:42:10.8662|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:42:30.8818|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:42:30.8906|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:42:50.8955|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:42:50.8955|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:43:10.9335|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:43:10.9414|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:43:30.9345|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:43:30.9423|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:43:50.9345|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:43:50.9423|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:44:10.9345|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:44:10.9423|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:44:30.9345|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:44:30.9443|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:44:50.9345|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:44:50.9414|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:45:10.9345|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:45:10.9384|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:45:30.9375|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:45:30.9375|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:45:50.9375|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:45:50.9375|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:46:10.9394|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:46:10.9394|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:46:30.9404|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:46:30.9404|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\img_100.jpg.
+2011-10-31 20:46:43.6464|INFO|WebCamService.WebCamService|Stopping service.
+2011-10-31 20:46:59.4560|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-10-31 20:46:59.8798|INFO|WebCamService.WebCam|Setting resolution to 640 x 480.
+2011-10-31 20:46:59.8798|ERROR|WebCamService.WebCam|Current image was null.
+2011-10-31 20:47:19.9589|INFO|WebCamService.WebCam|Building image.
+2011-10-31 20:47:19.9921|INFO|WebCamService.WebCam|Saving image to C:\Websites\Default\images\webcam_100.jpg.
+2011-10-31 21:32:42.1582|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-11-23 12:48:52.3052|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-11-23 12:48:57.2092|INFO|WebCamService.WebCam|Found 1 cameras.
+2011-11-23 12:48:57.2632|ERROR|WebCamService.WebCam|Could not find camera with name LifeCam.
+2011-11-23 09:31:16.8910|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-11-23 09:31:17.5860|INFO|WebCamService.WebCam|Found 1 cameras.
+2011-11-23 09:31:17.6390|ERROR|WebCamService.WebCam|Could not find camera with name LifeCam.
+2011-11-26 09:18:45.1835|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-11-26 09:18:46.5390|INFO|WebCamService.WebCam|Found 0 cameras.
+2011-11-26 09:18:46.5595|ERROR|WebCamService.WebCam|Could not find camera with name LifeCam.
+2011-12-25 13:47:41.0576|INFO|WebCamService.WebCamService|
+
+Starting service.
+2011-12-25 13:47:41.1416|INFO|WebCamService.WebCam|Found 0 cameras.
+2011-12-25 13:47:41.1416|ERROR|WebCamService.WebCam|Could not find camera with name LifeCam.
